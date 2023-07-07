@@ -1,4 +1,4 @@
-text = "Hello, I'm local changes!"
+text = input("Enter your message: ")
 
 
 def say_hi(t: str) -> str:
